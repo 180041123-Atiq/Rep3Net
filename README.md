@@ -1,7 +1,8 @@
 # Rep3Net
 Code repository for [paper](https://www.arxiv.org/abs/2512.00521). Currently, all the experiments are executed using google colab, that's why only
 .ipynb files are available. This repo is primarily based on [DGL LIFE SCI](https://github.com/awslabs/dgl-lifesci). If you have any query, please create an issue, we will try to solve it as soon as possible.
-
+## Environment
+Currently, we are working with rdkit-2025.9.1, dgllife-0.3.2, dgl-2.4.0, torch-2.4.0
 ## Citation
 If you use our work, please cite:
 ```bibtex
